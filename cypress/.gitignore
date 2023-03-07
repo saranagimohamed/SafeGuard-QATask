@@ -1,0 +1,10 @@
+node_modules
+reports
+cypress/screenshots
+cypress/videos
+.DS_Store
+cypress/downloads
+cypress/.DS_Store
+cypress/fixtures
+config.json
+.lh

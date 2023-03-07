@@ -1,0 +1,10 @@
+{
+   "env": {
+      "EMAIL": "Admin",
+      "PASSWORD": "admin123",
+      "baseUrl": "https://opensource-demo.orangehrmlive.com/web/index.php"
+   },
+   "ignoreTestFiles": [
+      "**/Pages/**"
+   ]
+}
