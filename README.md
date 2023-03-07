@@ -1,15 +1,17 @@
+##OverView
+
 ## Pre-requisites:
 
 1. Install Node & npm .
 2. Install Visual Studio Code .
 3. Install Cypress.
 4. Install Faker Check [here](https://www.npmjs.com/package/@faker-js/faker).
-5. Install cypress wait until Check [here](https://www.npmjs.com/package/cypress-wait-until).
 6. Install cypress xpath Check [here](https://www.npmjs.com/package/@cypress/xpath).
 7. Install cypress file upload Check [here](https://www.npmjs.com/package/cypress-file-upload).
 8. Install Moment [here](https://www.npmjs.com/package/moment).
 
 ## Structure:
+<img width="246" alt="image" src="https://user-images.githubusercontent.com/78497060/223422679-822b22d7-edb8-4317-8714-115df73d98c8.png">
 
 1. `Login page`: contains elements and login page functions.
 2. ` page`: contains elements and talents page functions.
